@@ -9,10 +9,6 @@ By: Cao Bas Trung (Peo)
 
 vless://845021b4-6960-453e-8945-4a9218ef60b6@chau2620.dynamic-dns.net:80?security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#%F0%9F%9A%80Peo+VPN+2%F0%9F%87%BB%F0%9F%87%B3
 
-vless://Vpnmienphi@vpnmienphi.duckdns.org:443/?type=tcp&security=reality&pbk=rJwGLlNyUm3eKGOQeaupi-O6caNZVbX3ZwFqkVLUOHA&fp=firefox&sni=m.tiktok.com&sid=b2fba55e&spx=%2F#Vpnmienphi-443
-
-vless://Vpnmienphi@vpnmienphi.duckdns.org:80/?type=tcp&path=%2F&host=m.tiktok.com&headerType=http&security=none#Vpnmienphi-80
-
 vmess://eyJhZGQiOiIxMDMuMjI4LjM3LjE5MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibS50aWt0b2suY29tIiwiaWQiOiI3ZGMyOTUzMS1mYTA1LTQ0NzMtYjA2Ny05MGVlM2IzYjc1ZjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGRwYXR0di5wcm8udm4iLCJwb3J0IjoiODAiLCJwcyI6IvCfmoBQZW8gVlBOIDXwn4e78J+HsyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxMDMuMjM3Ljg3LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtLnRpa3Rvay5jb20iLCJpZCI6IjdkYzI5NTMxLWZhMDUtNDQ3My1iMDY3LTkwZWUzYjNiNzVmMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9oZHBhdHR2LnByby52biIsInBvcnQiOiI4MCIsInBzIjoi8J+agFBlbyBWUE4gNvCfh7vwn4ezIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
