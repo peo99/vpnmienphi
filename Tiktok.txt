@@ -7,8 +7,8 @@ By: Cao Bas Trung (Peo)
 
 🚀 Nền Tiktok 🇻🇳
 
-vless://Vpnmienphi@vpnmienphi.duckdns.org:80/?type=tcp&path=%2F&host=m.tiktok.com&headerType=http&security=none#%F0%9F%9A%80Vpnmienphi%F0%9F%9A%AB-80
-vless://Vpnmienphi@vpnmienphi.duckdns.org:443/?type=tcp&security=reality&pbk=_iSptL5ccGUcpDS9hCA0BuRFu1zqJQg9YbP8GB08YXY&fp=firefox&sni=m.tiktok.com&sid=651ad664&spx=%2F#%F0%9F%9A%80Vpnmienphi%F0%9F%9A%AB-443
+vless://Vpnmienphi@vpnmienphi.duckdns.org:80/?type=tcp&path=%2F&host=m.tiktok.com&headerType=http&security=none#%F0%9F%9A%80Gaming%F0%9F%9A%AB-%F0%9F%8E%AE
+vless://Vpnmienphi@vpnmienphi.duckdns.org:443/?type=tcp&security=reality&pbk=_iSptL5ccGUcpDS9hCA0BuRFu1zqJQg9YbP8GB08YXY&fp=firefox&sni=m.tiktok.com&sid=651ad664&spx=%2F#%F0%9F%9A%80Gaming%F0%9F%9A%AB-%F0%9F%A5%87
 vless://845021b4-6960-453e-8945-4a9218ef60b6@chau2620.dynamic-dns.net:80?security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#%F0%9F%9A%80+VpnMienPhi+%F0%9F%9A%AB
 vmess://eyJhZGQiOiIxMDMuMjI4LjM3LjE5MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibS50aWt0b2suY29tIiwiaWQiOiI3ZGMyOTUzMS1mYTA1LTQ0NzMtYjA2Ny05MGVlM2IzYjc1ZjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGRwYXR0di5wcm8udm4iLCJwb3J0IjoiODAiLCJwcyI6IvCfmoAgVnBuTWllblBoaSDwn5qrIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMDMuMjM3Ljg3LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtLnRpa3Rvay5jb20iLCJpZCI6IjdkYzI5NTMxLWZhMDUtNDQ3My1iMDY3LTkwZWUzYjNiNzVmMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9oZHBhdHR2LnByby52biIsInBvcnQiOiI4MCIsInBzIjoi8J+agCBWcG5NaWVuUGhpIPCfmqsiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
